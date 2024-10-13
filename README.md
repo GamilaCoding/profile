@@ -28,6 +28,7 @@ NodeJs.
  - Learn how to use GitHub with interactive courses designed for beginners and experts.
 
 **Computer Science Learning Path**
- - Computer Science Learning Path, frontend masters Learn Data Structures & Algorithms with JavaScript
+ - Computer Science Learning Path, frontend masters Learn Data Structures & Algorithms with JavaScript.
+
 **GDSC, Google student club**
  - Learning by doing websites in frontend
