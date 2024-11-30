@@ -8,7 +8,7 @@
 
 ## PROJECTS
 
-**AI TEXT (_10/2024 - 11/2024_)**
+**AI TEXT (_10/2024 - 11/2024_)** [live](https://replit.com/@jamilaahmedengi/AI-Text-Summarizer-App-Starter-Template)
 -  Developed a full-stack web app on Replit using HTML, CSS, JavaScript, and Node.js.
 -  Integrated APIs, including Hugging Face Inference API, for AI-powered text summarization.
 -  Leveraged Postman to generate code and manage API interactions, improving app functionality and performance.
